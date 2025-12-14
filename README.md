@@ -7,7 +7,7 @@ For Takekawa Sensei's students.
 Why is Japan bad at English?
 * because we use Japanese for 16 hours/day. And almost zero English.
 
-You can't use both; if you want to be good at English, you have to allocate your time to English.
+You can't use both; if you want to be good at English, you have to allocate time to English.
 
 ---
 
