@@ -11,16 +11,16 @@ You can't use both; if you want to be good at English, you have to allocate your
 
 ### Change your mind language to English
 
-We are talking Japanese in our brains all day.
-Change it to English. By doing only that, you can allocate a lot of time to English.
+We are talking Japanese in our brains all day.  
+Change it to English. By doing only that, you can allocate a lot of time to English.  
 When you feel "お腹減った", say "I'm hungry" in your mind.
 
 ### How to change your mind language to English
 
-Practice "frequently used phrase."
-https://www.englishspeak.com/en/english-phrases
-Download. Put every audio file and put it into your music player. 
-Listen and speak what you heard.
+Practice "frequently used phrase."  
+https://www.englishspeak.com/en/english-phrases  
+Download. Put every audio file and put it into your music player.   
+Listen and speak what you heard.  
 English is a sport, not a school subject.
 
 Within a month, you will be able to speak simple English.
@@ -28,7 +28,7 @@ Within a month, you will be able to speak simple English.
 
 ### Speaking is the thing you should focus on
 
-Speaking, Listening, Writing, Reading.
+Speaking, Listening, Writing, Reading.  
 In Japanese English education, these are handled as peers.
 
 But the most important thing is speaking.
@@ -63,20 +63,20 @@ Pronunciation is useless unless you really need to be a professional English tal
 ### Enjoy what Americans enjoy
 For example, go to Reddit. This is American American-origin SNS. 
 * https://www.reddit.com/r/all/
-It's English, but many of the popular post is simple image or just a few sentences.
-You can enjoy without understanding English. And if you enjoy it, you will like it, and you will start understanding English naturally.  
-YouTube, Audiobook, or anything that Americans love.
+It's English, but many of the popular post is simple image or just a few sentences.  
+You can enjoy without understanding English. And if you enjoy it, you will like it, and you will start understanding English naturally.   
+Watch YouTube, listen Audiobook, or anything that Americans do.
 
 * Google provides high-quality AI for free; it's for developers, but anyone can use it. https://aistudio.google.com/prompts/new_chat
     . You can talk with it in English. Next time you search something, ask the AI in English.
 
 ### Replace Japanese with English
 
-When you physically see Japanese, you should consider if it can be replaced in English.
-You watch YouTube in English.
-You watch Anime, use English voice. Play game in English. Read manga in English.
-Change OS to English.
-Just pretend you're American from today.
+When you physically see Japanese, you should consider if it can be replaced in English.  
+You watch YouTube in English.  
+You watch Anime, use English voice. Play game in English. Read manga in English.  
+Change OS to English.  
+Just pretend you're American from today.  
 
 Avoid the Japanese language as much as possible.
 
