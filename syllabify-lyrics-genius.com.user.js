@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Genius.com - Syllabify Lyrics (Smart)
+// @name         Genius.com - Syllabify Lyrics
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Converts lyrics on Genius.com into syllables (Improved for silent 'e' and English rules)
