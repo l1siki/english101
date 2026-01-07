@@ -158,30 +158,34 @@ by りしき
 ---
 ### 🎵 シラブルを意識して英語の歌を歌ってみよう
 
-シラブルを意識して英語を歌うことは、英語特有のリズムや「シラブル（音節）」を学ぶのに最適です。
+シラブル（音節）を意識することは、英語特有のリズムを学ぶのに最適です。
 
-準備（userscriptを使ってgenius.comの英語歌詞をシラブル化する。）
-1. Install a userscript manager:
-   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-   - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+**準備：Genius.comの歌詞をシラブル化する**
+1. **Userscript Managerを導入**
+   - [Chrome: Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Firefox: Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+2. **[スクリプトをインストール](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js)**
 
-2. **[CLICK HERE TO INSTALL THE SCRIPT](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js)**
+> **「·」がシラブルの分割点です。**
+> 例：**"real" (re·al)** は2音、**"this"** は1音。
+> このリズムを意識するだけで、発音が劇的にネイティブに近づきます。
 
-「·」がシラブルの分割点です。
-例えば、**"real" (re·al)** は2音ですが、**"this"** は1音です。
-このリズムを意識するだけで、英語の発音が劇的にネイティブに近づきます。
-
-#### 1. Shake it Off – Taylor Swift ([youtube](https://www.youtube.com/watch?v=nfWlot6h_JM)) ([歌詞](https://genius.com/Taylor-swift-shake-it-off-lyrics))
+**1. Shake it Off – Taylor Swift**
+[YouTube](https://www.youtube.com/results?search_query=Shake+it+Off+Taylor+Swift) / [歌詞](https://genius.com/Taylor-swift-shake-it-off-lyrics)
 
 これは究極の「自然」な英語の曲です。
 ネイティブの会話のほとんどは、このように1シラブルの単語（Monosyllables）の連続です。
 単語をつなげて、パーカッションのように歌うのがコツです。
 
-#### 2. Bohemian Rhapsody – Queen ([youtube](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)) ([歌詞](https://genius.com/Queen-bohemian-rhapsody-lyrics))
-この曲は多くの複数シラブル単語を使います。"reality"(re·al·i·ty)は4音で構成されています。(ネイティブは複数シラブル単語を避けます、realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語です。)
+**2. Bohemian Rhapsody – Queen**
+[YouTube](https://www.youtube.com/results?search_query=Bohemian+Rhapsody+Queen) / [歌詞](https://genius.com/Queen-bohemian-rhapsody-lyrics)
 
-##### おまけ: オフラインで大量のテキストをシラブル化したい人向けpythonスクリプト
-[https://github.com/l1siki/english101/raw/refs/heads/main/syllabify_all_txt_incl_subfolders.py](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify_all_txt_incl_subfolders.py)
+この曲は多くの複数シラブル単語を使います。"reality"(re·al·i·ty)は4音で構成されています。
+(ネイティブは複数シラブル単語を避けます。realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語だからです。)
+
+**おまけ：オフライン用Pythonスクリプト**
+大量のテキストをシラブル化したい人向け。
+[Download Script](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify_all_txt_incl_subfolders.py)
 
 ---
 ### アメリカ人が楽しんでいるものを楽しむ
