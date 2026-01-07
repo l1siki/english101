@@ -182,6 +182,7 @@ by りしき
 
 ##### おまけ: オフラインで大量のテキストをシラブル化したい人向けpythonスクリプト
 [https://github.com/l1siki/english101/raw/refs/heads/main/syllabify_all_txt_incl_subfolders.py](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify_all_txt_incl_subfolders.py)
+
 ---
 ### アメリカ人が楽しんでいるものを楽しむ
 
