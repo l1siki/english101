@@ -164,7 +164,7 @@ by りしき
 1. **Userscript Managerを導入**
    - [Chrome: Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Firefox: Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-2. **[スクリプトをインストール](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js)**
+2. **[スクリプトをインストール: https://github.com/l1siki/english101/blob/main/syllabify-lyrics-genius.com.user.js](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js)**
 
 > **「·」がシラブルの分割点です。**
 > 例：**"real" (re·al)** は2音、**"this"** は1音。
