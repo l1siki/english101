@@ -171,14 +171,14 @@ by りしき
 > このリズムを意識するだけで、発音が劇的にネイティブに近づきます。
 
 **1. Shake it Off – Taylor Swift**
-[YouTube](https://www.youtube.com/results?search_query=Shake+it+Off+Taylor+Swift) / [歌詞](https://genius.com/Taylor-swift-shake-it-off-lyrics)
+[YouTube](https://www.youtube.com/watch?v=nfWlot6h_JM) / [歌詞](https://genius.com/Taylor-swift-shake-it-off-lyrics)
 
 これは究極の「自然」な英語の曲です。
 ネイティブの会話のほとんどは、このように1シラブルの単語（Monosyllables）の連続です。
 単語をつなげて、パーカッションのように歌うのがコツです。
 
 **2. Bohemian Rhapsody – Queen**
-[YouTube](https://www.youtube.com/results?search_query=Bohemian+Rhapsody+Queen) / [歌詞](https://genius.com/Queen-bohemian-rhapsody-lyrics)
+[YouTube](https://www.youtube.com/watch?v=fJ9rUzIMcZQ) / [歌詞](https://genius.com/Queen-bohemian-rhapsody-lyrics)
 
 この曲は多くの複数シラブル単語を使います。"reality"(re·al·i·ty)は4音で構成されています。
 (ネイティブは複数シラブル単語を避けます。realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語だからです。文字上は短いのでインターネット上ではよく見かけるかもしれません。)
