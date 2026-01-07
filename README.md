@@ -181,7 +181,7 @@ by りしき
 [YouTube](https://www.youtube.com/results?search_query=Bohemian+Rhapsody+Queen) / [歌詞](https://genius.com/Queen-bohemian-rhapsody-lyrics)
 
 この曲は多くの複数シラブル単語を使います。"reality"(re·al·i·ty)は4音で構成されています。
-(ネイティブは複数シラブル単語を避けます。realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語だからです。)
+(ネイティブは複数シラブル単語を避けます。realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語だからです。文字上は短いのでインターネット上ではよく見かけるかもしれません。)
 
 **おまけ：オフライン用Pythonスクリプト**
 大量のテキストをシラブル化したい人向け。
