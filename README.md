@@ -164,8 +164,8 @@ by りしき
 1. **Userscript Managerを導入**
    - [Chrome: Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Firefox: Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-2. **どちらかのスクリプトをインストール(リンク先はこのレポのルートにあるuser.jsファイル)**
-   - [歌詞サイト(Genius.com)のみ](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-genius.user.js)
+2. **スクリプトをインストール(リンク先はこのrepoのルートにあるuser.jsファイル)**
+   - [歌詞サイトGenius.comのみ](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-genius.user.js)
    - [すべてのサイト(Tampermonkeyで有効無効を切り替えてください。) ](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-everything.user.js)
 
 > **「·」がシラブルの分割点です。**
